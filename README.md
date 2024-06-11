@@ -1,6 +1,6 @@
 # Currency Converter
 
-This project is a simple currency converter built with React and Vite. It allows users to convert amounts between different currencies using real-time exchange rates.
+This [project](https://money-convertor001.netlify.app/) is a simple currency converter built with React and Vite. It allows users to convert amounts between different currencies using real-time exchange rates.
 
 ## Features
 
